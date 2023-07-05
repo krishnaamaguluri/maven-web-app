@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='green'>First jenkins build and deployment practise completed...!!</font></h1>
+<h1><font color='blue'>First jenkins build and deployment practise completed...!!</font></h1>
 <h1><font color='red'> Welcome to Ashok IT - Software Training Institute </font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 
