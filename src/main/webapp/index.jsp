@@ -1,16 +1,7 @@
 <html>
 <body>
 <h1>
-  <font color='blue'>First jenkins build and deployment practise completed...!!
-    <script>
-      date = new Date();
-      year = date.getFullYear();
-      month = date.getMonth() + 1;
-      day = date.getDate();
-      document.getElementById("current_date").innerHTML = month + "/" + day + "/" + year;
-    </script>
-</font>
-</h1>
+  <font color='blue'>First jenkins build and deployment practise completed...!! on 05/07/2023</font></h1>
 <h1><font color='red'> Welcome to Ashok IT - Software Training Institute </font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 
