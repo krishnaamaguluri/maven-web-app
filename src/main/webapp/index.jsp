@@ -1,7 +1,5 @@
 <html>
 <body>
-<div id="current_date"></p>
-
 <h1>
   <font color='blue'>First jenkins build and deployment practise completed...!!
     <script>
